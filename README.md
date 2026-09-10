@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -25,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
