@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
@@ -15,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 ## Array
