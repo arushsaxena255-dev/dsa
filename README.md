@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
+| [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arushsaxena255-dev/dsa/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
