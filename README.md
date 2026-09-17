@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/arushsaxena255-dev/dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
