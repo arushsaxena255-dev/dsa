@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/arushsaxena255-dev/dsa/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/arushsaxena255-dev/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/arushsaxena255-dev/dsa/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
