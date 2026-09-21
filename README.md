@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/arushsaxena255-dev/dsa/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/arushsaxena255-dev/dsa/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/arushsaxena255-dev/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arushsaxena255-dev/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/arushsaxena255-dev/dsa/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/arushsaxena255-dev/dsa/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
