@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/arushsaxena255-dev/dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/arushsaxena255-dev/dsa/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/arushsaxena255-dev/dsa/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/arushsaxena255-dev/dsa/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/arushsaxena255-dev/dsa/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
