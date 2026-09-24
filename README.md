@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/arushsaxena255-dev/dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1980-find-unique-binary-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1980-find-unique-binary-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arushsaxena255-dev/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/arushsaxena255-dev/dsa/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arushsaxena255-dev/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
 | ------- |
