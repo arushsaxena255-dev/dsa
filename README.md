@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/arushsaxena255-dev/dsa/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arushsaxena255-dev/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/arushsaxena255-dev/dsa/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/arushsaxena255-dev/dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/arushsaxena255-dev/dsa/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/arushsaxena255-dev/dsa/tree/master/0168-excel-sheet-column-title) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/arushsaxena255-dev/dsa/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/arushsaxena255-dev/dsa/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/arushsaxena255-dev/dsa/tree/master/0168-excel-sheet-column-title) |
 | [1903-largest-odd-number-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1903-largest-odd-number-in-string) |
