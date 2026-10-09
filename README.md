@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/arushsaxena255-dev/dsa/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arushsaxena255-dev/dsa/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/arushsaxena255-dev/dsa/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/arushsaxena255-dev/dsa/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/arushsaxena255-dev/dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/arushsaxena255-dev/dsa/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/arushsaxena255-dev/dsa/tree/master/0387-first-unique-character-in-a-string) |
