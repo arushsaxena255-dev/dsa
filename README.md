@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arushsaxena255-dev/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arushsaxena255-dev/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/arushsaxena255-dev/dsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/arushsaxena255-dev/dsa/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/arushsaxena255-dev/dsa/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arushsaxena255-dev/dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arushsaxena255-dev/dsa/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/arushsaxena255-dev/dsa/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arushsaxena255-dev/dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/arushsaxena255-dev/dsa/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/arushsaxena255-dev/dsa/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
